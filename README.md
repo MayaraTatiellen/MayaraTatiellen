@@ -2,9 +2,9 @@
 <img align="right" alt="May-gif" src="https://i.picasion.com/pic92/73291654a2414e92b1b881db5933d630.gif" width="300" height="255" border="0" alt="https://picasion.com/" />
 
 - ⌛ Tenho 26 anos 
-- 🔭 Estou trabalhando atualmente como Analista de Teste
+- 🔭 Estou trabalhando atualmente como QA
 - 🌱 Estudando Javascript e Vue
-- 😊 Costumam me chamar de May   
+- 😊 Me chamam de May   
 
 
 <div> 
